@@ -14,4 +14,4 @@
 # limitations under the License.
 
 # Include board config fragments
-include device/vodafone/msm8909-common/board/*.mk
+include device/alcatel/msm8909-common/board/*.mk
