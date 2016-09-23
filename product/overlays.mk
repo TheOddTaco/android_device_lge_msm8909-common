@@ -1,2 +1,2 @@
 # Overlays
-DEVICE_PACKAGE_OVERLAYS += device/vodafone/msm8909-common/overlay
+DEVICE_PACKAGE_OVERLAYS += device/alcatel/msm8909-common/overlay
